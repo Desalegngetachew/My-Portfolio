@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Adobe suite tools", "JavaScript", "PHP","Flutter", "HTML", "Tailwind CSS", "React", "Vue","C++","MySQL","Java","MS offfice"],
+    strings: ["Adobe suite tools(Photoshop, illustrator,inDesign, priemer)", "JavaScript","capCut", "PHP","Flutter", "HTML", "Tailwind CSS", "React", "Vue","C++","MySQL","Java","MS offfice"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
